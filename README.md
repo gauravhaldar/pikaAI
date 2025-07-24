@@ -46,3 +46,4 @@ new window.ElevenLabsWidget({
 
 The widget takes care of the conversation end-to-end. There is **no** n8n code or fallback logic in the client anymore.
 # pikaAI
+# pikaAI
