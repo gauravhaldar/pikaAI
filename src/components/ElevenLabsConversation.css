@@ -10,7 +10,7 @@
 .play-pause-button {
     width: 80px;
     height: 80px;
-    border-radius: 50%;
+    border-radius: 60%;
     background-color: #3B82F6; /* Blue for play */
     border: none;
     display: flex;
